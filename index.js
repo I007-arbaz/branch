@@ -1,2 +1,2 @@
-let branch = "branch1"
-console.log(branch)
+let branch = "branch2"
+console.log(branch);
